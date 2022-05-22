@@ -34,6 +34,7 @@ function calculateResults() {
       } else {
         showError('Please check your numbers');
       }
+      
 }
 
 
